@@ -1,0 +1,165 @@
+section{
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.logo img{
+    width: 20px;
+    height: auto;
+    padding: 2px;
+    
+
+}
+.container{
+    border: solid 2px orange;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(182, 182, 182, 0.22);
+    margin-left: 2px;
+    margin-right: 2px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+   
+
+   
+}
+.container2
+{
+    border: 2px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    height: 40px;
+    margin-bottom: 40px;
+
+
+}
+.container3
+{
+    border: 2px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    height: auto;
+    margin-bottom: 10px;
+
+
+}
+nav{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    font-size: 30px;
+}
+ul{
+   display: flex;
+    
+    justify-content: space-between;
+    margin-left: 50px;
+}
+li{
+    display: flex;
+    
+    justify-content: space-between;
+    margin-left: 100px;
+    font: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 100px;
+    cursor: pointer;
+}
+.btn1{
+width: 65px;
+color: white;
+background-color: orange;
+border: none;
+padding: 5px;
+font: 100px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+cursor: pointer;
+justify-content: center;
+
+}
+.btn1:hover
+{
+background-color: green;
+}
+.btn2{
+    width: 75px;
+color: white;
+background-color: green;
+border: none;
+padding: 3px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+cursor: pointer;
+justify-content: center;
+margin: 3px;
+
+}
+.btn2:hover{
+    background-color: orange;
+}
+
+img{
+    width: 200px;
+    height: auto;
+    padding: 5px;
+}.div1{
+    border: solid 2px orange;
+    flex: 1;
+    padding: 10px;
+    margin: 10px;
+
+}
+.div2{
+    border: solid 2px green;
+    display: flex;
+    height: 300px;
+    padding: 10px;
+    margin: 5px;
+   
+}
+.div3{
+    border: solid 2px green;
+    display: flex;
+    height: 300px;
+    padding: 10px;
+    margin: 5px;
+}
+.div4{
+    justify-content: center;
+    background-image: url(./images/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 550px;
+    height: 660px;
+    border: solid 2px orange;
+   margin: 10px;
+    padding: 10px;
+    align-items: center;
+}
+.btn4{
+    background-color: rgb(255, 132, 0);
+    width: 546px;
+    height: 35px;
+    color: white;
+    border: none;
+    font-size: 20px;
+    align-items: center;
+    cursor: pointer;
+}
+h2{
+    margin-top: 100px;
+
+}
+h1{
+    margin-top: 40px;
+}
